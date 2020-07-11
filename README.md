@@ -3,7 +3,6 @@ Bitcoin related repo
 
 I'll be storing BTC related info here.
 
-# My receive address
+# Send me BTC:
 
-
-
+1GCdg1qikVyP8kvJmjcQMDpZ7SzbMsjoMA
