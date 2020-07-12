@@ -3,6 +3,7 @@ Bitcoin related repo
 
 I'll be storing BTC related info here.
 
-# Feel free to send BTC to my address  :)
+# If you find something useful, please send BTC to my address  :)
 
+BTC
 1GCdg1qikVyP8kvJmjcQMDpZ7SzbMsjoMA
