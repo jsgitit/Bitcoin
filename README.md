@@ -3,7 +3,7 @@ Bitcoin related repo
 
 I'll be storing BTC related info here.
 
-# If you find something useful, please send BTC to my address  :)
+# If you would like to buy me a coffee, please send BTC to my address  :)
 
 # BTC
 
